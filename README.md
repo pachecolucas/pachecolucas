@@ -1,5 +1,8 @@
 ### Hi there 👋
+
 Meu nome é Lucas. Sou professor na [Eliti](https://www.eliti.com.br), programador na [Epanel](http://epanel.com.br) e consultor financeiro na [Cashimbo](https://cashimbo.com.br/).
+
+Se quiser bater um papo fale comigo no [WhatsApp](https://wa.me/5548999826011?text=Ol%C3%A1!%20Cheguei%20aqui%20atrav%C3%A9s%20do%20Github.).
 
 <!--
 **pachecolucas/pachecolucas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
